@@ -1,4 +1,4 @@
-# HEPIER--Webscraping-restaurants
+# Webscraping-restaurants information
 Scraping location specific restaurants from google maps and its websites from google search. || Selenium * DOMS * NLP ||
 
 <b>Step 1: Automating Google Map search and extraction</b>
